@@ -43,7 +43,7 @@ int                 main(int argc, char* argv[]);
 
 typedef string FUCKCRACKER;
 
-FUCKCRACKER fuckcracker_0 = "破解我的作品很有趣吗？————郭书岩";
+FUCKCRACKER fuckcracker_0 = " 破解我的作品很有趣吗？————郭书岩";
 FUCKCRACKER fuckcracker_00 = fuckcracker_0;
 FUCKCRACKER fuckcracker_1 = "破解我的作品很有趣吗？————郭书岩";
 FUCKCRACKER fuckcracker_11 = fuckcracker_1;
